@@ -54,9 +54,9 @@ IDEplLua is a specialized Integrated Development Environment tailored for Luau, 
 ## Images
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/fed3cf35-23e7-4667-acdd-d84d308e05d2" width="290" />
-  <img src="https://github.com/user-attachments/assets/471f15ae-6344-4905-85ec-743c737c05af" width="290" />
-  <img src="https://github.com/user-attachments/assets/e6993fc0-ee0a-4654-bcbf-6c0289652751" width="290" />
+  <img src="https://github.com/user-attachments/assets/3ad0a51a-9851-4f62-a540-01856e98720f" width="290" />
+  <img src="https://github.com/user-attachments/assets/37b595e1-f8b6-4a38-a444-3e6e39b1b482" width="290" />
+  <img src="https://github.com/user-attachments/assets/85177621-f1f4-4a59-b9e6-a9293337db21" width="290" />
 </p>
 
 ##  Contributing
